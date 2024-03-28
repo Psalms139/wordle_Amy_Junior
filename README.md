@@ -1,6 +1,9 @@
 # wordle_Amy_Junior
+Comment l'installer ? 
 POur installer le projet, il faut aller acceder a ce lien github : https://github.com/Psalms139/wordle_Amy_Junior.git
 
+
+Comment compiler et exectuer le code ?
 Pour compiler le programme, il faut faire gcc hihi.c -o hihi. Ensuite, pour l'executer, il faut faire ./hihi
 
 Le projet consiste a reproduire le jeu wordle, qui consiste a avoir un fichier texte rempli de mots dont on devra faire 
